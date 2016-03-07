@@ -3,7 +3,7 @@ import random
 from bitstring import BitArray, BitString
 
 #Google Maps API key
-gmaps = googlemaps.Client(key = 'AIzaSyCMDZHOxRUdinR1iawcBMV-bGTY34wREXI')
+gmaps = googlemaps.Client(key = #makeownkey)
 
 genepool = []
 children = []
