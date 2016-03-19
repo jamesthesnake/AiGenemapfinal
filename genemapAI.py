@@ -19,7 +19,7 @@ maxelevation = 3979
 ##print mutationrate
 
 #Google Maps API key
-gmaps = googlemaps.Client(key = 'AIzaSyCMDZHOxRUdinR1iawcBMV-bGTY34wREXI')
+gmaps = googlemaps.Client(key = #yourkeyhere)
 
 stop = False
 genepool = []
