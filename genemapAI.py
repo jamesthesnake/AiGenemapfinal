@@ -289,6 +289,7 @@ def breed():
 
         maybemutate(childA)
         maybemutate(childB)
+    #    assert childA >childB:
 
         children.append(childA)
         children.append(childB)
@@ -378,7 +379,8 @@ def run():
     for elem in genepool:
         if elem.elevation == maxelevation:
             print "Top performer is: "
-            print elem, elem.x, elem.y, elem.elevation
+            print elem
+            print elem.x, elem.y, elem.elevation
     print " "
     print "-----------------"
     print "*****************"
