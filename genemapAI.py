@@ -20,7 +20,7 @@ maxelevation = 3979
 
 #Google Maps API key
 gmaps = googlemaps.Client(key = #yourkeyhere)
-
+#input your ket for it to work 
 stop = False
 genepool = []
 children = []
@@ -28,6 +28,7 @@ closecalls = []
 generation = 0
 
 class Alien(object):
+    #sex is gender male/female and elevation is how high on mountian 
     sexpriority = 0
     elevation = 0
 
