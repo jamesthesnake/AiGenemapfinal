@@ -45,4 +45,3 @@ Module for Google Maps API found at: https://github.com/googlemaps/google-maps-s
 Use key found in seperate text file
 (Now is included in geneticmap.py)
 
-written by James Hennessy and Nicolas Coffman
